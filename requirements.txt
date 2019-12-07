@@ -1,4 +1,4 @@
 Flask==1.1.1
 flask-pymongo
-pyton-dotenv
+python-dotenv
 pytest-flask
